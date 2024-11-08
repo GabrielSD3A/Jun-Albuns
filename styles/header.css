@@ -11,7 +11,7 @@
     background-image: url("../img//Menu Aberto.svg");
   }
   
-  .container__botao:checked~.container__rotulo {
+.container__botao:checked~.container__rotulo {
     background: var(--roxo-secundario);
   }
 
